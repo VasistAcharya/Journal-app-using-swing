@@ -1,2 +1,2 @@
 # Journal-app-using-swing
-## made this simple app to improve upon my java and sql knowledge
+### turned a little idea and sort of a necessity into this simple app to improve my java and sql knowledge
