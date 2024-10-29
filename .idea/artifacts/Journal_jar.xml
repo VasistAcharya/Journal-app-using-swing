@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Journal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Journal_jar</output-path>
+    <root id="archive" name="Journal.jar">
+      <element id="module-output" name="Journal" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jdatepicker-1.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-j-9.0.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/DatabaseConnection.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/DateLabelFormatter.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/DeletePage.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/EditPage.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/EntryPage.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/LoginPage.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/MenuPage.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ReadPage.java" />
+    </root>
+  </artifact>
+</component>
